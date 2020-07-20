@@ -20,9 +20,9 @@ pipeline {
             }
         }
         
-        stage('Hello-4') {
+        stage('Hello-four') {
             steps {
-                echo 'Hello World - 4'
+                echo 'Hello World - four'
             }
         }
        
